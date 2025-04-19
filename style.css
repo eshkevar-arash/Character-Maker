@@ -32,6 +32,8 @@ body {
   justify-content: space-around;
   border-bottom: 2px dashed #000000;
   padding: 20px 0 40px 0;
+  flex-wrap: wrap;
+  row-gap: 20px;
 }
 .buttons button {
   background-color: #ffb64c;
